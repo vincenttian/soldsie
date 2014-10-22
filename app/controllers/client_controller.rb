@@ -1,5 +1,5 @@
 class ClientController < ApplicationController
-  def 
-  	@products = Product.where()
+  def index
+	@products = Product.where(client_id: 1)
   end
 end

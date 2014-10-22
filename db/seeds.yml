@@ -10,7 +10,7 @@ products:
     suggested_search: arm
     suggested_url: http://test.com/arm
     final_url: ""
-    photo_url: http://yahoo.com/image
+    photo_url: http://www.shefaly.co.uk/blog/wp-content/uploads/2009/11/ivyarmband.jpg
     instragram_comments: This feels so good on my arm!
     client_id: 1
 
@@ -18,6 +18,6 @@ products:
     suggested_search: foot
     suggested_url: http://test.com/arm
     final_url: ""
-    photo_url: http://yahoo.com/image
+    photo_url: 'http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=73459390'
     instragram_comments: This feels so good on my arm!
     client_id: 1

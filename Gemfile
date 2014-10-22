@@ -13,10 +13,10 @@ gem 'devise'
 gem 'pg'
 gem 'slim-rails'
 gem 'thin'
+gem 'better_errors'
+gem 'binding_of_caller', :platforms=>[:mri_21]
 group :development do
   gem 'annotate', '~> 2.6.1'
-  gem 'better_errors'
-  gem 'binding_of_caller', :platforms=>[:mri_21]
   gem 'quiet_assets'
   gem 'rails_layout'
 end
