@@ -19,7 +19,8 @@ def create_products
 				        suggested_url: product['suggested_url'],
 				        final_url: product['final_url'],
 				        photo_url: product['photo_url'],
-				        instagram_comments: product['instagram_comments']
+				        instagram_comments: product['instagram_comments'],
+                client_id: product['client_id']
   end  	
 end
 

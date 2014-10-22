@@ -12,3 +12,12 @@ products:
     final_url: ""
     photo_url: http://yahoo.com/image
     instragram_comments: This feels so good on my arm!
+    client_id: 1
+
+  - name: Arm Band 2
+    suggested_search: foot
+    suggested_url: http://test.com/arm
+    final_url: ""
+    photo_url: http://yahoo.com/image
+    instragram_comments: This feels so good on my arm!
+    client_id: 1

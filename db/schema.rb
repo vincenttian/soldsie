@@ -25,6 +25,7 @@ ActiveRecord::Schema.define(version: 20141022184418) do
   end
 
   create_table "products", force: true do |t|
+    t.integer  "client_id"
     t.string   "name"
     t.string   "suggested_search"
     t.string   "suggested_url"
