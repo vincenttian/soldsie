@@ -17,7 +17,9 @@ def create_products
 	Product.create!  	name: product['name'],
 				        suggested_search: product['suggested_search'],
 				        suggested_url: product['suggested_url'],
-				        final_url: product['final_url']
+				        final_url: product['final_url'],
+				        photo_url: product['photo_url'],
+				        instagram_comments: product['instagram_comments']
   end  	
 end
 

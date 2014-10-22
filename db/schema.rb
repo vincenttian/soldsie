@@ -28,6 +28,8 @@ ActiveRecord::Schema.define(version: 20141022184418) do
     t.string   "name"
     t.string   "suggested_search"
     t.string   "suggested_url"
+    t.string   "photo_url"
+    t.string   "instagram_comments"
     t.string   "final_url"
     t.datetime "created_at"
     t.datetime "updated_at"
