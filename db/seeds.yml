@@ -1,0 +1,12 @@
+clients:
+
+  - name: TestClient
+    root_url: "http://test.com"
+    category: fashion
+
+products:
+
+  - name: Arm Band
+    suggested_search: arm
+    suggested_url: http://test.com/arm
+    final_url: ""
