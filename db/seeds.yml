@@ -1,7 +1,7 @@
 clients:
 
   - name: TestClient
-    root_url: "http://test.com"
+    root_url: "http://amazon.com"
     category: fashion
 
 products:

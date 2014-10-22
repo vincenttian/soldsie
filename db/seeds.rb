@@ -7,7 +7,7 @@ SEEDS = seeds
 def create_clients
   SEEDS['clients'].each do |client|
   	Client.create! 	name: client['name'],
-            		root_url: client['phone'],
+            		root_url: client['root_url'],
             		category: client['category']
   end
 end
